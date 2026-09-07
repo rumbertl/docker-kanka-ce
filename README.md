@@ -1,5 +1,7 @@
 # docker-kanka-ce
 
+## THIS IS A FORK OF https://github.com/Kanka-CE/docker-kanka-ce AND NOT FOR PRODUCTIVE
+
 The Dockerfile used to build the Kanka Community Edition container image, styled after [linuxserver.io](https://www.linuxserver.io)'s image conventions.
 
 > **Want to self-host Kanka CE?** You don't need this repo directly — go to
